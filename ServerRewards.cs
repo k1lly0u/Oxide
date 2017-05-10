@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Oxide.Core;
 using Oxide.Core.Configuration;
@@ -694,10 +694,7 @@ namespace Oxide.Plugins
             CuiHelper.DestroyUi(player, UIRP);
             if (!uiManager.IsOpen(player)) return;
 
-            int playerPoints = 0;
-
-            if (playerRP.ContainsKey(player.userID))
-                playerPoints = playerRP[player.userID];
+            int playerPoints = CheckPoints(player.userID);
 
             var element = UI.CreateElementContainer(UIRP, "0 0 0 0", "0.3 0", "0.7 0.1");
             string message = $"{color1}{msg("storeRP", player.UserIDString)}: {playerPoints}</color>";
@@ -1046,17 +1043,14 @@ namespace Oxide.Plugins
             if (rewardData.kits.ContainsKey(kitName))
             {
                 var kit = rewardData.kits[kitName];
-                if (playerRP.ContainsKey(player.userID))
+                var pd = CheckPoints(player.userID);
+                if (pd >= kit.cost)
                 {
-                    var pd = playerRP[player.userID];
-                    if (pd >= kit.cost)
+                    if (TakePoints(player.userID, kit.cost, "Kit " + kit.displayName) != null)
                     {
-                        if (TakePoints(player.userID, kit.cost, "Kit " + kit.displayName) != null)
-                        {
-                            Kits?.Call("GiveKit", new object[] { player, kit.kitName });
-                            PopupMessage(player, string.Format(msg("buyKit", player.UserIDString), kitName));
-                            return;
-                        }
+                        Kits?.Call("GiveKit", new object[] { player, kit.kitName });
+                        PopupMessage(player, string.Format(msg("buyKit", player.UserIDString), kitName));
+                        return;
                     }
                 }
                 PopupMessage(player, msg("notEnoughPoints", player.UserIDString));
@@ -1076,19 +1070,16 @@ namespace Oxide.Plugins
             if (rewardData.commands.ContainsKey(commandname))
             {
                 var command = rewardData.commands[commandname];
-                if (playerRP.ContainsKey(player.userID))
+                var pd = CheckPoints(player.userID);
+                if (pd >= command.cost)
                 {
-                    var pd = playerRP[player.userID];
-                    if (pd >= command.cost)
+                    if (TakePoints(player.userID, command.cost, "Command") != null)
                     {
-                        if (TakePoints(player.userID, command.cost, "Command") != null)
-                        {
-                            foreach (var cmd in command.commands)
-                                rust.RunServerCommand(cmd.Replace("$player.id", player.UserIDString).Replace("$player.name", player.displayName).Replace("$player.x", player.transform.position.x.ToString()).Replace("$player.y", player.transform.position.y.ToString()).Replace("$player.z", player.transform.position.z.ToString()));
+                        foreach (var cmd in command.commands)
+                            rust.RunServerCommand(cmd.Replace("$player.id", player.UserIDString).Replace("$player.name", player.displayName).Replace("$player.x", player.transform.position.x.ToString()).Replace("$player.y", player.transform.position.y.ToString()).Replace("$player.z", player.transform.position.z.ToString()));
 
-                            PopupMessage(player, string.Format(msg("buyCommand", player.UserIDString), commandname));
-                            return;
-                        }
+                        PopupMessage(player, string.Format(msg("buyCommand", player.UserIDString), commandname));
+                        return;
                     }
                 }
                 PopupMessage(player, msg("notEnoughPoints", player.UserIDString));
@@ -1108,22 +1099,20 @@ namespace Oxide.Plugins
             if (rewardData.items.ContainsKey(itemname))
             {
                 var item = rewardData.items[itemname];
-                if (playerRP.ContainsKey(player.userID))
+                var pd = CheckPoints(player.userID);
+                if (pd >= item.cost)
                 {
-                    var pd = playerRP[player.userID];
                     if (player.inventory.containerMain.itemList.Count == 24)
                     {
                         PopupMessage(player, msg("fullInv", player.UserIDString));
                         return;
                     }
-                    if (pd >= item.cost)
+
+                    if (TakePoints(player.userID, item.cost, item.displayName) != null)
                     {
-                        if (TakePoints(player.userID, item.cost, item.displayName) != null)
-                        {
-                            GiveItem(player, itemname);
-                            PopupMessage(player, string.Format(msg("buyItem", player.UserIDString), item.amount, item.displayName));
-                            return;
-                        }
+                        GiveItem(player, itemname);
+                        PopupMessage(player, string.Format(msg("buyItem", player.UserIDString), item.amount, item.displayName));
+                        return;
                     }
                 }
                 PopupMessage(player, msg("notEnoughPoints", player.UserIDString));
@@ -1190,7 +1179,7 @@ namespace Oxide.Plugins
             var type = int.Parse(arg.GetString(0).Replace("'", ""));
             if (type == 1)
             {
-                if (!playerRP.ContainsKey(player.userID) || playerRP[player.userID] < configData.Exchange.RP)
+                if (CheckPoints(player.userID) < configData.Exchange.RP)
                 {
                     PopupMessage(player, msg("notEnoughPoints", player.UserIDString));
                     return;
@@ -1370,7 +1359,7 @@ namespace Oxide.Plugins
             {
                 uiManager.DestroyUI(player, true);
                 var ID = player.userID;
-                if (playerRP.ContainsKey(ID) && playerRP[ID] > 0)
+                if (CheckPoints(ID) > 0)
                     InformPoints(player);
             }
         }
@@ -1418,7 +1407,7 @@ namespace Oxide.Plugins
         }
         private void InformPoints(BasePlayer player)
         {
-            var outstanding = playerRP[player.userID];
+            var outstanding = CheckPoints(player.userID);
             if (configData.Options.NPCOnly)
                 SendMSG(player, string.Format(msg("msgOutRewardsnpc", player.UserIDString), outstanding));
             else SendMSG(player, string.Format(msg("msgOutRewards1", player.UserIDString), outstanding));
@@ -1650,15 +1639,15 @@ namespace Oxide.Plugins
             }
             return true;
         }
-        private object CheckPoints(object userID)
+        private int CheckPoints(object userID)
         {
             ulong ID;
             var success = GetUserID(userID);
             if (success is bool)
-                return false;
+                return 0;
             else ID = (ulong)success;
 
-            if (!playerRP.ContainsKey(ID)) return null;
+            if (!playerRP.ContainsKey(ID)) return 0;
             return playerRP[ID];
         }
 
@@ -2216,13 +2205,7 @@ namespace Oxide.Plugins
                 switch (args[0].ToLower())
                 {
                     case "check":
-                        if (!playerRP.ContainsKey(player.userID))
-                        {
-                            SendMSG(player, msg("errorProfile", player.UserIDString));
-                            Puts(msg("errorPCon", player.UserIDString), player.displayName);
-                            return;
-                        }
-                        int points = playerRP[player.userID];
+                        int points = CheckPoints(player.userID);
                         SendMSG(player, string.Format(msg("tpointsAvail", player.UserIDString), points));
                         return;
                     #region Lists
@@ -2950,12 +2933,9 @@ namespace Oxide.Plugins
                                     foreach (var entry in pList)
                                     {
                                         var amount = CheckPoints(entry);
-                                        if (amount is int)
-                                        {
-                                            if ((int)amount >= i)
-                                                TakePoints(entry, i);
-                                            else TakePoints(entry, (int)amount);
-                                        }
+                                        if (amount >= i)
+                                            TakePoints(entry, i);
+                                        else TakePoints(entry, amount);
                                     }
 
                                     SendMSG(player, string.Format(msg("remPointsAll", player.UserIDString), i));
@@ -3001,13 +2981,8 @@ namespace Oxide.Plugins
                         case "check":
                             if (args.Length == 2)
                             {
-                                if (playerRP.ContainsKey((target as BasePlayer).userID))
-                                {
-                                    var points = playerRP[(target as BasePlayer).userID];
-                                    SendMSG(player, string.Format("{0} - {2}: {1}", (target as BasePlayer).displayName, points, msg("storeRP")));
-                                    return;
-                                }
-                                SendMSG(player, string.Format(msg("noProfile", player.UserIDString), (target as BasePlayer).displayName));
+                                var points = CheckPoints((target as BasePlayer).userID);
+                                SendMSG(player, string.Format("{0} - {2}: {1}", (target as BasePlayer).displayName, points, msg("storeRP")));
                             }
                             return;
                     }
@@ -3060,12 +3035,9 @@ namespace Oxide.Plugins
                                     foreach (var entry in pList)
                                     {
                                         var amount = CheckPoints(entry);
-                                        if (amount is int)
-                                        {
-                                            if ((int)amount >= i)
-                                                TakePoints(entry, i);
-                                            else TakePoints(entry, (int)amount);
-                                        }
+                                        if (amount >= i)
+                                            TakePoints(entry, i);
+                                        else TakePoints(entry, amount);
                                     }
 
                                     SendReply(arg, string.Format(msg("remPointsAll"), i));
@@ -3115,13 +3087,8 @@ namespace Oxide.Plugins
                         case "check":
                             if (arg.Args.Length == 2)
                             {
-                                if (playerRP.ContainsKey((target as BasePlayer).userID))
-                                {
-                                    var points = playerRP[(target as BasePlayer).userID];
-                                    SendReply(arg, string.Format("{0} - {2}: {1}", (target as BasePlayer).displayName, points, msg("storeRP")));
-                                    return;
-                                }
-                                SendReply(arg, string.Format(msg("noProfile"), (target as BasePlayer).displayName));
+                                var points = CheckPoints((target as BasePlayer).userID);
+                                SendReply(arg, string.Format("{0} - {2}: {1}", (target as BasePlayer).displayName, points, msg("storeRP")));
                             }
                             return;
                     }
