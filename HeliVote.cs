@@ -203,7 +203,7 @@ namespace Oxide.Plugins
         #region chat/console commands
 
         [ChatCommand("helivote")]
-        private void cmdHeiVote(BasePlayer player, string command, string[] args)
+        private void cmdHeliVote(BasePlayer player, string command, string[] args)
         {
             if (usePerms)
                 if (!canVote(player)) return;

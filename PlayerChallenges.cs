@@ -10,7 +10,7 @@ using System.Linq;
 
 namespace Oxide.Plugins
 {
-    [Info("PlayerChallenges", "k1lly0u", "2.0.9", ResourceId = 1442)]
+    [Info("PlayerChallenges", "k1lly0u", "2.0.2", ResourceId = 1442)]
     class PlayerChallenges : RustPlugin
     {
         #region Fields
@@ -165,18 +165,13 @@ namespace Oxide.Plugins
         {
             var listNames = $" -- <color={configData.Colors.MSG_ColorMain}>{MSG(type.ToString()).ToUpper()}</color>\n\n";
 
-            var userStats = new Dictionary<string, int>();
+            var userStats = new List<KeyValuePair<string, int>>();
 
             foreach (var entry in statCache)
             {
-                var name = entry.Value.DisplayName;
-                if (userStats.ContainsKey(entry.Value.DisplayName))
-                {
-                    name += $"({UnityEngine.Random.Range(0, 1000)})";
-                }
-                userStats.Add(name, entry.Value.Stats[type]);
-            }
-                
+                var name = entry.Value.DisplayName;                
+                userStats.Add(new KeyValuePair<string, int>(name, entry.Value.Stats[type]));
+            }                
 
             var leaders = userStats.OrderByDescending(a => a.Value).Take(25);
 
@@ -282,7 +277,7 @@ namespace Oxide.Plugins
         }
         void OnPluginLoaded(Plugin plugin)
         {
-            if (plugin.Title == "BetterChat")
+            if (plugin?.Title == "BetterChat")
                 RegisterTitles();
         }
         void OnPlayerInit(BasePlayer player)
@@ -421,7 +416,8 @@ namespace Oxide.Plugins
         void OnStructureRepair(BaseCombatEntity block, BasePlayer player)
         {
             if (player == null || !configData.ChallengeSettings[Challenges.StructuresRepaired].Enabled) return;
-            AddPoints(player, Challenges.StructuresRepaired, 1);
+            if (block.health < block.MaxHealth())
+                AddPoints(player, Challenges.StructuresRepaired, 1);
         }
         #endregion
 

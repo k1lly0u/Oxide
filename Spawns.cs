@@ -10,7 +10,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("Spawns", "Reneb / k1lly0u", "2.0.32", ResourceId = 720)]
+    [Info("Spawns", "Reneb / k1lly0u", "2.0.34", ResourceId = 720)]
     class Spawns : RustPlugin
     {
         #region Fields
@@ -191,7 +191,7 @@ namespace Oxide.Plugins
                                 int number;
                                 if (int.TryParse(args[1], out number))
                                 {
-                                    if (number < SpawnCreation[player.userID].Count)
+                                    if (number <= SpawnCreation[player.userID].Count)
                                     {
                                         SpawnCreation[player.userID].RemoveAt(number - 1);
                                         SendReply(player, string.Format(MSG("remSuccess", player.UserIDString), number));
@@ -213,7 +213,7 @@ namespace Oxide.Plugins
                                 SendReply(player, MSG("noCreate", player.UserIDString));
                                 return;
                             }
-                            if (SpawnCreation[player.userID].Count > 0)
+                            if (SpawnCreation.ContainsKey(player.userID) && SpawnCreation[player.userID].Count > 0)
                             {
                                 if (!spawnsData.Spawnfiles.Contains(args[1]) && !LoadedSpawnfiles.ContainsKey(args[1]))
                                 {
