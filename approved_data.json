@@ -204,7 +204,7 @@
       "584379": {
         "title": "Urban Camo",
         "description": "In a city? Want people to think your torso is invisible? This is the shirt for you!\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]T-Shirt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
-        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/584379_small.png?3643819163",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/584379_small.png?1337992766",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -216,7 +216,7 @@
       "1158943049": {
         "title": "Demonic Pistol",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Pistol[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
-        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/2459_small.png?5",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/2459_small.png?1260715249",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -622,6 +622,16 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1328323548": {
+        "title": "Poison Jaws SAP",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Pistol[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27008_small.png?2541831838",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "pants": {
@@ -924,6 +934,76 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1296612316": {
+        "title": "Firefighter Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26309_small.png?2451552066",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1305364315": {
+        "title": "Chekist's Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26500_small.png?2314413687",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1317553480": {
+        "title": "Urban Ice Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26610_small.png?2372799252",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1328753424": {
+        "title": "Northern Forester Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26801_small.png?1666747505",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356749671": {
+        "title": "Seaman Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27104_small.png?1226718918",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1368418893": {
+        "title": "Lumberjack Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27300_small.png?175006720",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356324187": {
+        "title": "Outlaws Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27405_small.png?2397135122",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "tshirt.long": {
@@ -1183,6 +1263,16 @@
         "title": "Fire jacket",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/20701_small.png?1948345064",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1317555901": {
+        "title": "Urban Ice Jacket",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26708_small.png?955811134",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -1846,6 +1936,26 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1296042340": {
+        "title": "Brony Bag",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sleeping Bag[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27012_small.png?1064898137",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1362261702": {
+        "title": "Survivor Bag",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sleeping Bag[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27208_small.png?879999016",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "hoodie": {
@@ -2243,6 +2353,86 @@
         "title": "Revolution Hoodie",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26104_small.png?3561354388",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1296608954": {
+        "title": "Firefighter Hoodie",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26311_small.png?415704480",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1305321596": {
+        "title": "Chekist's Hoodie",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26501_small.png?978170714",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1317554978": {
+        "title": "Urban Ice Hoodie",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26609_small.png?817547794",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1328751626": {
+        "title": "Northern Forester Hoodie",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26800_small.png?745639922",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356748246": {
+        "title": "Seaman Hoodie",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27105_small.png?2650963723",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1368417352": {
+        "title": "Lumberjack Hoodie",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27301_small.png?4143746443",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356328924": {
+        "title": "Outlaws Hoodie",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27404_small.png?2072980364",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1373714814": {
+        "title": "Brony Hoodie",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hoodie[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27411_small.png?3755764269",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -2664,6 +2854,16 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1323640876": {
+        "title": "Road Raider Bandana",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bandana Mask[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26711_small.png?229557560",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "shotgun.pump": {
@@ -2811,6 +3011,16 @@
         "title": "Loot Leader Shotgun",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pump Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26205_small.png?4002537195",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1292063367": {
+        "title": "Royalty Pump Shotgun",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pump Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26305_small.png?2184999081",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -3261,6 +3471,26 @@
         "title": "Phantom Revolver",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26210_small.png?1624320538",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1309517474": {
+        "title": "Rebel Revolver",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26606_small.png?3496486276",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1346870567": {
+        "title": "Party Pooper",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27308_small.png?3455812805",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -3872,6 +4102,86 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1282838099": {
+        "title": "Pandora's box",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Large Wood Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26307_small.png?1136748721",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1306240898": {
+        "title": "Ichtaca Treasure Box",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Large Wood Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26403_small.png?3359878450",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1315566388": {
+        "title": "Carpenter's Chest",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Large Wood Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26612_small.png?397152188",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1320924107": {
+        "title": "Bone Collector Box",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Large Wood Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26700_small.png?1218351346",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1342462175": {
+        "title": "Railway Box",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Large Wood Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26900_small.png?1456392538",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1353721544": {
+        "title": "Ragnarok Trunk",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Large Wood Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27107_small.png?2399350051",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356773002": {
+        "title": "Ordnance Box",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Large Wood Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27309_small.png?2420980988",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1362394666": {
+        "title": "Caution Crate",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Large Wood Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27400_small.png?756080823",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "bucket.helmet": {
@@ -4151,6 +4461,26 @@
         "title": "Metalhunter Gloves",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Leather Gloves[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24306_small.png?1734734124",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1296614997": {
+        "title": "Firefighter Gloves",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Leather Gloves[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26310_small.png?1693888303",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1368419860": {
+        "title": "Lumberjack Gloves",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Leather Gloves[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27302_small.png?3998090270",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -4658,6 +4988,86 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1306351416": {
+        "title": "Crypt of Death AK47",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Assault Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26613_small.png?2054401049",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1324932956": {
+        "title": "Urban Ice AK47",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Assault Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26707_small.png?654127954",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1309470544": {
+        "title": "X-RAY AK47",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Assault Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26811_small.png?3900429477",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1338305091": {
+        "title": "Mystic AK47",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Assault Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26910_small.png?4121593516",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349512142": {
+        "title": "Caution AK47",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Assault Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27002_small.png?3075659124",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349324364": {
+        "title": "Demonic AK47",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Assault Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27114_small.png?1859019580",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1359893925": {
+        "title": "AK Royale",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Assault Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27211_small.png?3376350765",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1372945520": {
+        "title": "AK-47 Victoria",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Assault Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27407_small.png?436715708",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "burlap.shirt": {
@@ -4775,6 +5185,26 @@
         "title": "It is Wednesday, my dudes",
         "description": "Celebrate one of the most annoying memes of /r/playrust with this stupid shirt\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Burlap Shirt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26209_small.png?3950374811",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1323654151": {
+        "title": "Road Raider Shirt",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Burlap Shirt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26713_small.png?2090290124",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1354670586": {
+        "title": "Leopard Skin Shirt",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Burlap Shirt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27102_small.png?653193707",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -4927,6 +5357,16 @@
         "title": "KOI",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26219_small.png?448674357",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1320685736": {
+        "title": "Industrial Pipe Shotgun",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26604_small.png?2638539016",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -5502,6 +5942,66 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1203888714": {
+        "title": "Templar",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Facemask[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26400_small.png?1247319682",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1270065112": {
+        "title": "Conquistador Face Mask",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Facemask[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26502_small.png?967512423",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1313529548": {
+        "title": "Legendary Gold Facemask",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Facemask[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26810_small.png?1826228407",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1335769610": {
+        "title": "Dwarf Facemask",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Facemask[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26907_small.png?1197497465",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349988105": {
+        "title": "Flyer Mask",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Facemask[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27001_small.png?2054352120",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1353724450": {
+        "title": "Samurai Somen",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Facemask[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27311_small.png?3163102502",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "deer.skull.mask": {
@@ -5858,6 +6358,46 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1342122459": {
+        "title": "Caution Helmet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Coffee Can Helmet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26906_small.png?3353315377",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1332335200": {
+        "title": "Dominator Helmet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Coffee Can Helmet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27004_small.png?1532278881",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349166206": {
+        "title": "Full Metal Helmet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Coffee Can Helmet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27113_small.png?3476028523",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349946203": {
+        "title": "Dwarf Helmet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Coffee Can Helmet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27410_small.png?2102420743",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "roadsign.jacket": {
@@ -6155,6 +6695,56 @@
         "title": "Loot Leader Vest",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26203_small.png?2851567817",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1234957719": {
+        "title": "The Last Viking Vest",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26405_small.png?1787192052",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1342125487": {
+        "title": "Caution Vest",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26905_small.png?519588188",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1332334593": {
+        "title": "Dominator Vest",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27006_small.png?2370493888",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349163491": {
+        "title": "Full Metal Vest",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27112_small.png?146168325",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349940035": {
+        "title": "Dwarf Roadsign Vest",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27409_small.png?2414336753",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -6462,6 +7052,56 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1342123902": {
+        "title": "Caution Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Kilt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26904_small.png?3805409359",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1332333384": {
+        "title": "Dominator Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Kilt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27005_small.png?368620185",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349158079": {
+        "title": "Full Metal Kilt",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Kilt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27111_small.png?480832204",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1353722661": {
+        "title": "Samurai Kusazuri",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Kilt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27313_small.png?757822863",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349943069": {
+        "title": "Dwarf Roadsign Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Road Sign Kilt[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27408_small.png?51825084",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "longsword": {
@@ -6721,6 +7361,46 @@
         "title": "War Machine Chestplate",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Chest Plate[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24409_small.png?2686268173",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1270065959": {
+        "title": "Conquistador Chest Plate",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Chest Plate[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26503_small.png?2863650939",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1335770974": {
+        "title": "Dwarf Chestplate",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Chest Plate[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26908_small.png?3643237137",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349989767": {
+        "title": "Flyer Vest",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Chest Plate[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27000_small.png?3854489430",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1353723648": {
+        "title": "Samurai Kozane Do",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Metal Chest Plate[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27312_small.png?613181385",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -7520,6 +8200,16 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1269162578": {
+        "title": "Tribesman Poncho",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hide Poncho[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27009_small.png?3885621499",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "burlap.shoes": {
@@ -7689,6 +8379,46 @@
         "title": "Phoenix Crossbow",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Crossbow[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25900_small.png?563252594",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1291686117": {
+        "title": "Hawk Crossbow",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Crossbow[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26301_small.png?3134803062",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1328219905": {
+        "title": "Ronin",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Crossbow[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26703_small.png?660985439",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349337546": {
+        "title": "Gold Spirit Crossbow",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Crossbow[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27013_small.png?4071724676",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1367933148": {
+        "title": "Tribal Crossbow",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Crossbow[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27306_small.png?2893306946",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -8062,6 +8792,46 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1313604647": {
+        "title": "Dreamcatcher Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Wooden Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26600_small.png?814585650",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1320929144": {
+        "title": "Bone Collector Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Wooden Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26701_small.png?3706663434",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1328425419": {
+        "title": "Fortified Castle Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Wooden Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26807_small.png?3848811424",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1362500013": {
+        "title": "Vandal's Peace Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Wooden Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27205_small.png?566469254",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "fun.guitar": {
@@ -8166,6 +8936,16 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1316294242": {
+        "title": "Carpenter's Small Box",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Wood Storage Box[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26611_small.png?2074787235",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "burlap.trousers": {
@@ -8203,6 +8983,26 @@
         "title": "Rioter's Pants",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Burlap Trousers[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24605_small.png?1554281969",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1323664071": {
+        "title": "Road Raider Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Burlap Trousers[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26712_small.png?864946231",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1354675665": {
+        "title": "Leopard Skin Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Burlap Trousers[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27101_small.png?3885143306",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -8392,6 +9192,46 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1306176753": {
+        "title": "Tree Killer",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Stone Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26505_small.png?410613433",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1340282993": {
+        "title": "Ritual Stone Hatchet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Stone Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26902_small.png?3204662052",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356232241": {
+        "title": "Dark Rite Stone Hatchet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Stone Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27110_small.png?2286934895",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1342121150": {
+        "title": "Tribal Stone Hatchet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Stone Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27203_small.png?579108096",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "rocket.launcher": {
@@ -8479,6 +9319,16 @@
         "title": "Glass Cannon",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Rocket Launcher[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24504_small.png?2281681064",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1162085821": {
+        "title": "Troglodyte",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Rocket Launcher[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27003_small.png?2098810251",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -8878,6 +9728,56 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1291775183": {
+        "title": "Shinobi Hatchet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26303_small.png?1835258624",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1320099240": {
+        "title": "Fenrir Hatchet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26601_small.png?4076036544",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1325481133": {
+        "title": "Virulent Hatchet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26710_small.png?564705253",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1359120832": {
+        "title": "Survivor's Hatchet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27109_small.png?1409612785",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1362737705": {
+        "title": "Spec Ops Hatchet",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hatchet[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27202_small.png?3028008436",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "smg.2": {
@@ -9035,6 +9935,16 @@
         "title": "Polymer SMG",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Custom SMG[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25108_small.png?780765119",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1329096680": {
+        "title": "Afterburn SMG",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Custom SMG[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27209_small.png?3268121562",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -9324,6 +10234,76 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1298949573": {
+        "title": "Snakebite SAR",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26306_small.png?846713627",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1300137383": {
+        "title": "Warbeast SAR",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26510_small.png?1838060527",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1300239738": {
+        "title": "Soulkeeper SAR",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26607_small.png?3226550743",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1217394290": {
+        "title": "Hot Rod SAR",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26808_small.png?2224467658",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1310522106": {
+        "title": "Payback SAR",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26909_small.png?3416490311",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1313600286": {
+        "title": "Tiki SAR",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27307_small.png?3395780918",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1359059068": {
+        "title": "Buzzard SAR",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Semi-Automatic Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27403_small.png?2654762466",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "hammer": {
@@ -9605,6 +10585,36 @@
         "title": "Scraptooth Sword",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Salvaged Sword[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25604_small.png?1829730795",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1283812544": {
+        "title": "Spartan Sword",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Salvaged Sword[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26504_small.png?3837660114",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1313755167": {
+        "title": "Trash Sword",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Salvaged Sword[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26702_small.png?1115033933",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1366123054": {
+        "title": "Saw Sword",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Salvaged Sword[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27304_small.png?880035369",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -10012,6 +11022,136 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1294718018": {
+        "title": "Grid Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26300_small.png?2414902289",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1309566989": {
+        "title": "Aztec Gold Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26507_small.png?3858014680",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1306412169": {
+        "title": "Scrap Robot Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26509_small.png?3766984234",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1313458951": {
+        "title": "Blacksmith's Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26605_small.png?1115300867",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1321264697": {
+        "title": "Submarine Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26706_small.png?2613273089",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1328395850": {
+        "title": "Artist's Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26806_small.png?2806967587",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1328566466": {
+        "title": "Urban Night Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26809_small.png?2136752616",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1342459239": {
+        "title": "Railway Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26901_small.png?2073969962",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356364616": {
+        "title": "Boat House Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27106_small.png?3809389393",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356332123": {
+        "title": "Meltdown Metal Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27108_small.png?3224075917",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1362729705": {
+        "title": "Steel Pirate Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27210_small.png?325761040",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1354718926": {
+        "title": "Chinook Fuselage Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27310_small.png?2920856751",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1362595551": {
+        "title": "Caution Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Sheet Metal Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27401_small.png?4271650104",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "attire.hide.pants": {
@@ -10019,6 +11159,16 @@
         "title": "Uprising Hide Pants",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hide Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/20708_small.png?3812596839",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1269154354": {
+        "title": "Tribesman Hide Pants",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hide Pants[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27011_small.png?695355048",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -10101,6 +11251,26 @@
         "title": "Megalodon Totem Pickaxe",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Stone Pickaxe[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26212_small.png?3741085888",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1306179593": {
+        "title": "Stone Killer",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Stone Pickaxe[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26506_small.png?256431537",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1342118597": {
+        "title": "Tribal Stone Pickaxe",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Stone Pickaxe[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27204_small.png?482753471",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -10330,6 +11500,26 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1295701369": {
+        "title": "Last Hero DBS",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Double Barrel Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26308_small.png?1427455070",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1341524782": {
+        "title": "Protector DBS",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Double Barrel Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27200_small.png?2480545068",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "pickaxe": {
@@ -10437,6 +11627,46 @@
         "title": "Elegant Pick Axe",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pickaxe[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26201_small.png?2745450063",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1298797381": {
+        "title": "Shinobi Pick Axe",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pickaxe[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26302_small.png?1619321723",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1320093416": {
+        "title": "Fenrir Pickaxe",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pickaxe[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26602_small.png?498480326",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1325483813": {
+        "title": "Virulent Pick Axe",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pickaxe[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26709_small.png?1345317207",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1362736707": {
+        "title": "Spec Ops Pickaxe",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Pickaxe[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27201_small.png?473403497",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -10613,6 +11843,26 @@
         "title": "Lavish Vending Machine",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Vending Machine[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24912_small.png?3266865204",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1335113551": {
+        "title": "Carpenter's Vending Machine",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Vending Machine[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26805_small.png?130610025",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1373851317": {
+        "title": "Retro Vending Machine",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Vending Machine[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27402_small.png?3788980441",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -10880,6 +12130,16 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1328242213": {
+        "title": "Carpenter's Locker",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Locker[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27206_small.png?1890166453",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "attire.hide.vest": {
@@ -10887,6 +12147,16 @@
         "title": "Celtic Hide Shirt",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hide Vest[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/21514_small.png?4216368137",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1269172413": {
+        "title": "Tribesman Hide Shirt",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Hide Vest[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27010_small.png?2938209632",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -10984,6 +12254,16 @@
         "votesUp": 0,
         "votesDown": 0,
         "created": "0001-01-01T00:00:00"
+      },
+      "1308037543": {
+        "title": "Polymer LR300",
+        "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26401_small.png?2929904429",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
       }
     },
     "wall.frame.garagedoor": {
@@ -11041,6 +12321,46 @@
         "title": "Factory Rolling Door",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Garage Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25703_small.png?3846323014",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1309406283": {
+        "title": "Reactor Room 3 of 10",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Garage Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26404_small.png?762396099",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1306203844": {
+        "title": "Trash Garage Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Garage Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26511_small.png?3670408262",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1334974046": {
+        "title": "Cargo Truck Garage Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Garage Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26802_small.png?772332287",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1358030533": {
+        "title": "Sailor's Garage Door",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Garage Door[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27103_small.png?617907715",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -11153,6 +12473,86 @@
         "title": "Holy Python",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26214_small.png?3180637538",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1290876678": {
+        "title": "Necromancer Python",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26304_small.png?4064194672",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1296687971": {
+        "title": "Hot Battle Steel",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26402_small.png?2142447712",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1305704747": {
+        "title": "Cold Hunter Python",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26512_small.png?3717306663",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1277518447": {
+        "title": "Outlaw Python",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26608_small.png?2679417563",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1328632407": {
+        "title": "Punk Python",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26704_small.png?3622224015",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1335582211": {
+        "title": "Ivory Python",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26803_small.png?2202244631",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1342464644": {
+        "title": "Industrial Python",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26911_small.png?2286675311",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1364964220": {
+        "title": "Pearl Python",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Python Revolver[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27303_small.png?1487483222",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
@@ -11305,6 +12705,106 @@
         "title": "Iron Forge",
         "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
         "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26207_small.png?2065267058",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1305743950": {
+        "title": "Ritual Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26508_small.png?2780519077",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1305332196": {
+        "title": "Brutal Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26603_small.png?2904559741",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1320779999": {
+        "title": "Military Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26705_small.png?2217485702",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1335260783": {
+        "title": "Junkyard Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26804_small.png?2617738060",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1335598661": {
+        "title": "Ancient Gods Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26903_small.png?3418656614",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1349367380": {
+        "title": "Soul Burner",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27007_small.png?3168980424",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1354714819": {
+        "title": "Miner's Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27100_small.png?772326418",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1356581838": {
+        "title": "Rainbow Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27207_small.png?1208848977",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1354629493": {
+        "title": "Medieval Fresco Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27305_small.png?3883937302",
+        "score": 0.0,
+        "views": 0,
+        "votesUp": 0,
+        "votesDown": 0,
+        "created": "0001-01-01T00:00:00"
+      },
+      "1373663659": {
+        "title": "Scrap Face Furnace",
+        "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Furnace[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Wood[/color][/color]",
+        "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/27406_small.png?2500486015",
         "score": 0.0,
         "views": 0,
         "votesUp": 0,
