@@ -1431,6 +1431,11 @@ namespace Oxide.Plugins
         }
         private void SaveLoop() => saveTimer = timer.Once(configData.Options.SaveInterval, () => { SaveRP(); SaveLoop(); });
 
+        private void onServerSave()
+        {
+        	SaveRP();
+        }
+
         private void SendMSG(BasePlayer player, string msg, string keyword = "title")
         {
             if (keyword == "title") keyword = lang.GetMessage("title", this, player.UserIDString);
